@@ -12,7 +12,7 @@ Formado em Ciências Econômicas, com mais de 10 anos de experiência no mercado
 
 - Linguagem DAX
 
-- Power Query / ETL
+- Power Query / ETL / ELT
 
 - Data View
  
