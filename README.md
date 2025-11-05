@@ -27,7 +27,6 @@ Formado em Ciências Econômicas, com mais de 10 anos de experiência no mercado
 
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000)">
   <img align="center" alt="excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)">
   <img align="center" alt="excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
   <img align="center" alt="excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
